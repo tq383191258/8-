@@ -72,7 +72,7 @@
 
 ## 推荐资源
 
-- Python 官方教程
-- Numpy 教程
-- 3Blue1Brown 线性代数
-- Andrew Ng 机器学习入门
+- [Python 官方教程](https://docs.python.org/3/tutorial/)
+- [NumPy 官方文档（快速入门）](https://numpy.org/doc/stable/user/quickstart.html)
+- [3Blue1Brown：线性代数本质（视频系列）](https://www.3blue1brown.com/essence-of-linear-algebra)
+- [Andrew Ng：机器学习（Coursera 课程）](https://www.coursera.org/learn/machine-learning)
