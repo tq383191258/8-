@@ -48,6 +48,6 @@
 
 ## 推荐资源
 
-- FAISS 文档
-- sentence-transformers 官方教程
-- Hugging Face RAG 示例
+- [FAISS 文档](https://faiss.ai/)
+- [sentence-transformers 官方教程](https://www.sbert.net/docs/)
+- [Hugging Face RAG 示例（文档）](https://huggingface.co/docs/transformers/main/en/nn_examples/rag)
