@@ -32,5 +32,7 @@
 
 ## 推荐资源
 
-- 前面所有章节的学习材料
-- 项目型实战文章
+- [前面所有章节的学习材料（仓库根目录）](https://github.com/tq383191258/8-)
+- [Hugging Face Blog（项目实战与教程）](https://huggingface.co/blog)
+- [Papers With Code（案例与开源实现）](https://paperswithcode.com/)
+- [Hugging Face Transformers 示例仓库（示例项目）](https://github.com/huggingface/transformers)
